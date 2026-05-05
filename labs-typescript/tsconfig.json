@@ -6,11 +6,5 @@
     "outDir": "./dist",
     "strict": true,
     "esModuleInterop": true
-  },
-  "scripts": {
-    "lab03": "ts-node src/lab03-reservas/index.ts",
-    "lab04a": "ts-node src/lab04a-biblioteca/index.ts",
-    "lab04b": "ts-node src/lab04b-tarefas/index.ts",
-    "lab05": "ts-node src/lab05-funcionarios/index.ts"
   }
 }

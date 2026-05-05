@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lab06": "ts-node src/lab06-reservas/index.ts",
+    "lab04": "ts-node src/lab04-biblioteca/index.ts",
+    "lab07": "ts-node src/lab07-tarefas/index.ts",
+    "lab05": "ts-node src/lab05-funcionarios/index.ts"
   },
   "keywords": [],
   "author": "",
